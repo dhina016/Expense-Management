@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
@@ -188,3 +189,10 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+=======
+# Expense-Management
+
+Login:
+username -> socalled
+password -> 111111
+>>>>>>> e19779b20e384b56857900cb287c041717f0b169
