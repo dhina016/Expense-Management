@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dhina016/Expense-Management">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/logo.png" alt="Logo" width="155" height="35">
   </a>
 
   <h3 align="center">Expense Management System</h3>
