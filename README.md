@@ -25,7 +25,7 @@
   <h3 align="center">Expense Management System</h3>
 
   <p align="center">
-    This expense management system is used to add the product either inward or outward. In inward, you can add outward product and balance is increased. In outward, you can add inward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
+    This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add outward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
     <br />
     <a href="https://github.com/dhina016/Expense-Management"><strong>Explore the docs »</strong></a>
     <br />
@@ -156,17 +156,16 @@ Project Link: [https://github.com/dhina016/Expense-Management](https://github.co
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dhina016/Expense-Management.svg?style=flat-square
+[contributors-url]: https://github.com/dhina016/Expense-Management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dhina016/Expense-Management.svg?style=flat-square
+[forks-url]: https://github.com/dhina016/Expense-Management/network/members
+[stars-shield]: https://img.shields.io/github/stars/dhina016/Expense-Management.svg?style=flat-square
+[stars-url]: https://github.com/dhina016/Expense-Management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dhina016/Expense-Management.svg?style=flat-square
+[issues-url]: https://github.com/dhina016/Expense-Management/issues
+[license-shield]: https://img.shields.io/github/license/dhina016/Expense-Management.svg?style=flat-square
+[license-url]: https://github.com/dhina016/Expense-Management/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
