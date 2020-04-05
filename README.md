@@ -25,7 +25,7 @@
   <h3 align="center">Expense Management System</h3>
 
   <p align="center">
-    This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add inward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
+    This expense management system is used to add the product either inward or outward. In inward, you can add outward product and balance is increased. In outward, you can add inward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
     <br />
     <a href="https://github.com/dhina016/Expense-Management"><strong>Explore the docs »</strong></a>
     <br />
