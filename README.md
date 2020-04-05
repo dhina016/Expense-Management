@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -35,23 +18,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/dhina016/Expense-Management">
+    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Expense Management System</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add inward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhina016/Expense-Management"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/dhina016/Expense-Management/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/dhina016/Expense-Management/issues">Request Feature</a>
   </p>
 </p>
 
@@ -109,7 +90,7 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/dhina016/Expense-Management.git
 ```
 2. Install NPM packages
 ```sh
@@ -130,7 +111,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/dhina016/Expense-Management/issues) for a list of proposed features (and known issues).
 
 
 
@@ -159,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/dhina016/Expense-Management](https://github.com/dhina016/Expense-Management)
 
 
 
