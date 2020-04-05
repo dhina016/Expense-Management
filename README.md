@@ -59,10 +59,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+    This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add outward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -100,9 +98,18 @@ defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'your database
 defined('DATABASE_PASS')      OR define('DATABASE_PASS', 'your database password'); // Database Password
 defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'your hostname'); // Hostname
 ```
-6. Configure Database in application/config/constants.php
-
-
+6. Configure Debug mode in application/config/database.php. development -> Show error, production -> Hide Error. Defalut Mode Production.
+```sh
+	'db_debug' => (ENVIRONMENT !== 'production'),
+    Or
+    'db_debug' => (ENVIRONMENT !== 'development'),
+```
+7. If you face any error Like **@sqlMode**, set stricton -> true.
+```sh
+		'stricton' => FALSE,
+        To
+        'stricton' => TRUE,
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
