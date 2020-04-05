@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 05, 2020 at 09:13 AM
+-- Generation Time: Apr 05, 2020 at 01:43 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.3.12
 
@@ -38,7 +38,7 @@ CREATE TABLE `cost` (
 --
 
 INSERT INTO `cost` (`id`, `cost`) VALUES
-(1, 0);
+(1, 110);
 
 -- --------------------------------------------------------
 
@@ -53,8 +53,18 @@ CREATE TABLE `inward` (
   `totalprice` float NOT NULL,
   `pid` int(5) NOT NULL,
   `date` date NOT NULL DEFAULT current_timestamp(),
-  `isdel` int(1) NOT NULL
+  `isdel` int(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+
+--
+-- Dumping data for table `inward`
+--
+
+INSERT INTO `inward` (`id`, `pprice`, `quantity`, `totalprice`, `pid`, `date`, `isdel`) VALUES
+(2, 30, 3, 90, 13, '2020-04-05', 0),
+(3, 10, 2, 20, 10, '2020-04-05', 1),
+(4, 30, 2, 60, 13, '2020-04-05', 1),
+(5, 10, 2, 20, 10, '2020-04-05', 0);
 
 -- --------------------------------------------------------
 
@@ -69,8 +79,16 @@ CREATE TABLE `outward` (
   `totalprice` float NOT NULL,
   `pid` int(5) NOT NULL,
   `date` date NOT NULL DEFAULT current_timestamp(),
-  `isdel` int(1) NOT NULL
+  `isdel` int(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `outward`
+--
+
+INSERT INTO `outward` (`id`, `pprice`, `quantity`, `totalprice`, `pid`, `date`, `isdel`) VALUES
+(1, 5, 5, 25, 11, '2020-04-05', 0),
+(2, 40, 1, 40, 12, '2020-04-05', 0);
 
 -- --------------------------------------------------------
 
@@ -83,8 +101,18 @@ CREATE TABLE `product` (
   `pname` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
   `pprice` float NOT NULL,
   `ptype` int(1) NOT NULL,
-  `isdel` int(1) NOT NULL
+  `isdel` int(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `product`
+--
+
+INSERT INTO `product` (`id`, `pname`, `pprice`, `ptype`, `isdel`) VALUES
+(10, 'Omblet', 10, 0, 0),
+(11, 'Egg', 5, 1, 0),
+(12, 'Rice', 40, 1, 0),
+(13, 'Egg Rice', 30, 0, 0);
 
 -- --------------------------------------------------------
 
@@ -148,25 +176,25 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `cost`
 --
 ALTER TABLE `cost`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `inward`
 --
 ALTER TABLE `inward`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `outward`
 --
 ALTER TABLE `outward`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `product`
 --
 ALTER TABLE `product`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 
 --
 -- AUTO_INCREMENT for table `users`
