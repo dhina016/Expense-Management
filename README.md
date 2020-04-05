@@ -95,7 +95,7 @@ defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'your hostname'); // Ho
 Or
 'db_debug' => (ENVIRONMENT !== 'development'),
 ```
-7. If you face any error Like **@sqlMode**, set stricton -> true.
+7. If you face any error Like **@sqlMode**, set stricton -> true application/config/database.php.
 ```sh
 'stricton' => FALSE,
 To
