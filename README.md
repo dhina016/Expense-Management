@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
     This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add outward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
 
 
@@ -113,7 +113,8 @@ Consider the situation, You are a chef of one restaurant and you want to monitor
 Inward -> Egg Rice, Omelete
 Outward -> Egg, Rice
 
-[![S1][ss1]]
+**1.Login** :
+![S1][ss1]
 
 <!-- ROADMAP -->
 ## Roadmap
