@@ -44,7 +44,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -72,15 +71,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Follow the installation steps to open project without error
 
 ### Installation
  
@@ -100,17 +91,21 @@ defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'your hostname'); // Ho
 ```
 6. Configure Debug mode in application/config/database.php. development -> Show error, production -> Hide Error. Defalut Mode Production.
 ```sh
-	'db_debug' => (ENVIRONMENT !== 'production'),
-    Or
-    'db_debug' => (ENVIRONMENT !== 'development'),
+'db_debug' => (ENVIRONMENT !== 'production'),
+Or
+'db_debug' => (ENVIRONMENT !== 'development'),
 ```
 7. If you face any error Like **@sqlMode**, set stricton -> true.
 ```sh
-		'stricton' => FALSE,
-        To
-        'stricton' => TRUE,
+'stricton' => FALSE,
+To
+'stricton' => TRUE,
 ```
-
+7. Admin Login.
+```sh
+Username => socalled,
+Password => 111111,
+```
 <!-- USAGE EXAMPLES -->
 ## Usage
 
