@@ -67,11 +67,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+* [Bootsrap](https://getbootstrap.com/)
+* [Jquery](https://jquery.com/)
+* [Codeigniter](https://codeigniter.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -102,6 +100,7 @@ defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'your database
 defined('DATABASE_PASS')      OR define('DATABASE_PASS', 'your database password'); // Database Password
 defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'your hostname'); // Hostname
 ```
+6. Configure Database in application/config/constants.php
 
 
 
@@ -154,10 +153,8 @@ Project Link: [https://github.com/dhina016/Expense-Management](https://github.co
 
 * [Concept Dashnoard](https://github.com/puikinsh/concept)
 * [Font Awesome](https://fontawesome.com/)
-* [Codeigniter](https://codeigniter.com/)
 * [Chart JS](https://www.chartjs.org/)
-* [Bootsrap](https://getbootstrap.com/)
-* [Jquery](https://jquery.com/)
+
 
 
 
