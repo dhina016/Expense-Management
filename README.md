@@ -175,16 +175,16 @@ Project Link: [https://github.com/dhina016/Expense-Management](https://github.co
 [license-url]: https://github.com/dhina016/Expense-Management/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dhina016/
-[product-screenshot]: assests/images/screenshot/bann.jpg
-[ss1]: assests/images/screenshot/s1.png
-[ss2]: assests/images/screenshot/s2.png
-[ss3]: assests/images/screenshot/s3.png
-[ss4]: assests/images/screenshot/s4.png
-[ss5]: assests/images/screenshot/s5.png
-[ss6]: assests/images/screenshot/s6.png
-[ss7]: assests/images/screenshot/s7.png
-[ss8]: assests/images/screenshot/s8.png
-[ss9]: assests/images/screenshot/s9.png
-[ss10]: assests/images/screenshot/s10.png
+[product-screenshot]: assets/images/screenshot/bann.jpg
+[ss1]: assets/images/screenshot/s1.png
+[ss2]: assets/images/screenshot/s2.png
+[ss3]: assets/images/screenshot/s3.png
+[ss4]: assets/images/screenshot/s4.png
+[ss5]: assets/images/screenshot/s5.png
+[ss6]: assets/images/screenshot/s6.png
+[ss7]: assets/images/screenshot/s7.png
+[ss8]: assets/images/screenshot/s8.png
+[ss9]: assets/images/screenshot/s9.png
+[ss10]: assets/images/screenshot/s10.png
 
 =======
