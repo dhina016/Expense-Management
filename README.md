@@ -116,6 +116,33 @@ Outward -> Egg, Rice
 **1.Login** :
 ![S1][ss1]
 
+**2.Login** :
+![S1][ss2]
+
+**3.Login** :
+![S1][ss3]
+
+**4.Login** :
+![S1][ss4]
+
+**5.Login** :
+![S1][ss5]
+
+**6.Login** :
+![S1][ss6]
+
+**7.Login** :
+![S1][ss7]
+
+**8.Login** :
+![S1][ss8]
+
+**9.Login** :
+![S1][ss9]
+
+**10.Login** :
+![S1][ss10]
+
 <!-- ROADMAP -->
 ## Roadmap
 
