@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
     This expense management system is used to add the product either inward or outward. In inward, you can add inward product and balance is increased. In outward, you can add outward product and balance is decreased. You get the report of inward and outward as pdf, excel, and print.
 
 
@@ -109,11 +109,11 @@ Password => 111111,
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Consider the situation, You are a chef of one restaurant and you want to monitor the profit amount. So here the expense management system works. A gang of 3 friends came to your restaurant and order 3 egg rice and 2 omelets. so you want 4 eggs and 1 kg of rice and plus some ingredients. Now you bought 5 eggs and rice in the store. Rice cost 40 rs and egg cost 5 rs. The total cost you spend 40+25(5*5) = 65. Now those friends eat well and paid you. The egg rice cost is 35 and omelet costs 10. Now you have 90(3*30)+20(2*10) = 110. So now you earned 70(135-65). This is how expense management works. Here Demo,
+Inward -> Egg Rice, Omelete
+Outward -> Egg, Rice
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+[![S1][ss1]]
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -175,5 +175,16 @@ Project Link: [https://github.com/dhina016/Expense-Management](https://github.co
 [license-url]: https://github.com/dhina016/Expense-Management/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dhina016/
-[product-screenshot]: assests/images/screenshot.png
+[product-screenshot]: assests/images/screenshot/bann.jpg
+[ss1]: assests/images/screenshot/s1.png
+[ss2]: assests/images/screenshot/s2.png
+[ss3]: assests/images/screenshot/s3.png
+[ss4]: assests/images/screenshot/s4.png
+[ss5]: assests/images/screenshot/s5.png
+[ss6]: assests/images/screenshot/s6.png
+[ss7]: assests/images/screenshot/s7.png
+[ss8]: assests/images/screenshot/s8.png
+[ss9]: assests/images/screenshot/s9.png
+[ss10]: assests/images/screenshot/s10.png
+
 =======
