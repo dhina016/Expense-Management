@@ -85,7 +85,7 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 
-defined('DATABASE_NAME')     OR define('DATABASE_NAME', 'expense'); // invalid user input
-defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'root'); // database error
-defined('DATABASE_PASS')      OR define('DATABASE_PASS', ''); // lowest automatically-assigned error code
-defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'localhost'); // highest automatically-assigned error code
+defined('DATABASE_NAME')     OR define('DATABASE_NAME', 'expense'); // Database Name
+defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'root'); // Database Username
+defined('DATABASE_PASS')      OR define('DATABASE_PASS', ''); // Database Password
+defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'localhost'); // Hostname

@@ -88,13 +88,17 @@ npm install npm@latest -g
 
 ### Installation
  
-1. Clone the repo
+1. Download and extract the project in htdocs 
+2. Configure Base URL in application/config/config.php
 ```sh
-git clone https://github.com/dhina016/Expense-Management.git
+$config['base_url'] = 'http://localhost/expense_manager/';
 ```
-2. Install NPM packages
+3. Configure Database in application/config/constants.php
 ```sh
-npm install
+defined('DATABASE_NAME')     OR define('DATABASE_NAME', 'your database name'); // Database Name
+defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'your database username'); // Database Username
+defined('DATABASE_PASS')      OR define('DATABASE_PASS', 'your database password'); // Database Password
+defined('DATABASE_HOST')      OR define('DATABASE_HOST', 'your hostname'); // Hostname
 ```
 
 
@@ -138,8 +142,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
 Project Link: [https://github.com/dhina016/Expense-Management](https://github.com/dhina016/Expense-Management)
 
 
@@ -147,9 +149,13 @@ Project Link: [https://github.com/dhina016/Expense-Management](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+
+* [Concept Dashnoard](https://github.com/puikinsh/concept)
+* [Font Awesome](https://fontawesome.com/)
+* [Codeigniter](https://codeigniter.com/)
+* [Chart JS](https://www.chartjs.org/)
+* [Bootsrap](https://getbootstrap.com/)
+* [Jquery](https://jquery.com/)
 
 
 
