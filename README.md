@@ -116,31 +116,31 @@ Outward -> Egg, Rice
 **1.Login** :
 ![S1][ss1]
 
-**2.Login** :
+**2.Dashboard** :
 ![S1][ss2]
 
-**3.Login** :
+**3.Add Cash** :
 ![S1][ss3]
 
-**4.Login** :
+**4.Manage Product** :
 ![S1][ss4]
 
-**5.Login** :
+**5.Dashboard After Add Product** :
 ![S1][ss5]
 
-**6.Login** :
+**6.Outward** :
 ![S1][ss6]
 
-**7.Login** :
+**7.Dashboard After Outward** :
 ![S1][ss7]
 
-**8.Login** :
+**8.View Inward** :
 ![S1][ss8]
 
-**9.Login** :
+**9.Dashboard After Inward** :
 ![S1][ss9]
 
-**10.Login** :
+**10.Dashboard Table Report** :
 ![S1][ss10]
 
 <!-- ROADMAP -->
