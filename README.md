@@ -88,12 +88,14 @@ npm install npm@latest -g
 
 ### Installation
  
-1. Download and extract the project in htdocs 
-2. Configure Base URL in application/config/config.php
+1. Download and extract the project in htdocs
+2. Create the database
+3. Upload or Import expense.sql in your database 
+4. Configure Base URL in application/config/config.php
 ```sh
 $config['base_url'] = 'http://localhost/expense_manager/';
 ```
-3. Configure Database in application/config/constants.php
+5. Configure Database in application/config/constants.php
 ```sh
 defined('DATABASE_NAME')     OR define('DATABASE_NAME', 'your database name'); // Database Name
 defined('DATABASE_USERNAME')       OR define('DATABASE_USERNAME', 'your database username'); // Database Username
