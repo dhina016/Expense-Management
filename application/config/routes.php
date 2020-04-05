@@ -58,5 +58,6 @@ $route['outwardview'] = 'outwardview';
 $route['inwardadd'] = 'inwardadd';
 $route['inwardview'] = 'inwardview';
 $route['settings'] = 'settings';
+$route['cash'] = 'cash';
 $route['404_override'] = 'notfound';
 $route['translate_uri_dashes'] = FALSE;

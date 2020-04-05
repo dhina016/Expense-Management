@@ -34,7 +34,7 @@
     <!-- ============================================================== -->
     <div class="splash-container">
         <div class="card ">
-            <div class="card-header text-center"><img class="logo-img" src="<?php echo base_url('assets/images/logo.png" alt="logo'); ?>">"><span class="splash-description">Please enter your user information.</span></div>
+            <div class="card-header text-center"><img class="logo-img" src="<?php echo base_url('assets/images/logo.png" alt="logo'); ?>"><span class="splash-description">Please enter your user information.</span></div>
             <div class="card-body">
                 <?php $msg = $this->session->flashdata("msg");?>
                 <form method="post" action="<?php echo base_url('login/user_login_process'); ?>">
